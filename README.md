@@ -5,6 +5,6 @@
 
 <a href="https://www.instagram.com/picnic.sooeun/">
   <img 
-       src= "http://img.shields.io/badge/-Instagram-222222)?style=flat&logo=Instagram&link=https://www.instagram.com/picnic.sooeun/"
+       src= "http://img.shields.io/badge/-Instagram-FFA07A)?style=flat&logo=Instagram&link=https://www.instagram.com/picnic.sooeun/"
        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
