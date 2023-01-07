@@ -1,4 +1,4 @@
-<h2> 🍒Hello! This is Sooeun Park. </h2>
+<h2> 🍒Hi there! </h2>
 
 <span> 💌 ppi06105@naver.com </sapn> <br>
 <span> 💌 ppi06105hg@gmail.com </span> <br>
